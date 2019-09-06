@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
+	<folder>test</folder>
 	<filename>4.jpg</filename>
-	<path>C:\Users\TCSALGHRSI\Desktop\object_detection_demo\data\images\train\4.jpg</path>
+	<path>C:\Users\TCSALGHRSI\Desktop\object_detection_demo\data\images\test\4.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
+		<name>jacket</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>365</xmin>
+			<ymin>138</ymin>
+			<xmax>488</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+	<object>
 		<name>helmet</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>235</xmin>
-			<ymin>35</ymin>
-			<xmax>367</xmax>
-			<ymax>230</ymax>
+			<xmin>395</xmin>
+			<ymin>48</ymin>
+			<xmax>473</xmax>
+			<ymax>145</ymax>
 		</bndbox>
 	</object>
 </annotation>

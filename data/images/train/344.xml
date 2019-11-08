@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Yeliz-Etiketleme</folder>
+	<filename>344.jpg</filename>
+	<path>C:\Users\TCYGULMUS\Desktop\Yeliz-Etiketleme\344.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gozluk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>234</ymin>
+			<xmax>577</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

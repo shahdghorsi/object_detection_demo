@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Shahd-Etiketleme</folder>
+	<filename>904.jpg</filename>
+	<path>C:\Users\shahd\Desktop\Turkcell AI\ISG Enhanced\object_detection_demo\data\images\Shahd-Etiketleme\904.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Baret</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>51</ymin>
+			<xmax>594</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gozluk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>251</ymin>
+			<xmax>544</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

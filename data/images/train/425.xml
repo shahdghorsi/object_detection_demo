@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kubra-Etiketleme</folder>
+	<filename>425.jpg</filename>
+	<path>C:\Users\TCHERYILMAZ\ai\2019_03_workplace_safety\Kubra-Etiketleme\425.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>baret</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>468</xmin>
+			<ymin>79</ymin>
+			<xmax>704</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>

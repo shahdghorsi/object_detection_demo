@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>20191010_143053_050.jpg</filename>
+	<path>C:\Users\tcshalghrsi\Desktop\Projects\data_hamlet\train\20191010_143053_050.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2880</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Baret</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>555</xmin>
+			<ymin>388</ymin>
+			<xmax>1474</xmax>
+			<ymax>1624</ymax>
+		</bndbox>
+	</object>
+</annotation>

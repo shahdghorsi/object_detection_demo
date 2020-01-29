@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1580119367.7366242.jpg</filename>
+	<path>C:\Users\tcshalghrsi\Desktop\Projects\data_helmet\data\images\1580119367.7366242.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Baret</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>116</ymin>
+			<xmax>800</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

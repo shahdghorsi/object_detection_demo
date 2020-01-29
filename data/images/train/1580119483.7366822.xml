@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1580119483.7366822.jpg</filename>
+	<path>C:\Users\tcshalghrsi\Desktop\Projects\data_helmet\data\images\1580119483.7366822.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gozluk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>201</ymin>
+			<xmax>587</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>
